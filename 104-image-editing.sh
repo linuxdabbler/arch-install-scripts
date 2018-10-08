@@ -13,7 +13,6 @@ sudo pacman -S krita --noconfirm
 
 
 
-exit
 
 
 
