@@ -1,5 +1,0 @@
-cd arch-install-scripts
-
-sudo mv *.png /usr/share/backgrounds
-
-exit
