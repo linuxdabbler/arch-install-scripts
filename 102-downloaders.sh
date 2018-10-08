@@ -10,5 +10,4 @@ sudo pacman -S git --noconfirm
 
 sudo pacman -S wget --noconfirm
 
-exit
 
