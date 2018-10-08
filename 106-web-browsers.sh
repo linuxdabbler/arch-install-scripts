@@ -11,7 +11,6 @@ sudo pacman -S chromium --noconfirm
 
 yaourt -S google-chrome --noconfirm
 
-exit
 
 
 
