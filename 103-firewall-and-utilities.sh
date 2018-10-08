@@ -11,7 +11,6 @@ sudo pacman -S gparted --noconfirm
 
 sudo pacman -S bleachbit --noconfirm
 
-exit
 
 
 
